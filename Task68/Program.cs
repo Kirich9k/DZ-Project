@@ -12,6 +12,6 @@
 }
 
 Console.Clear();
-int n = Convert.ToInt32(Console.ReadLine());
 int m = Convert.ToInt32(Console.ReadLine());
+int n = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(AkkermanFunc(m, n));
